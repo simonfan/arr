@@ -1,0 +1,3 @@
+# arr[![Build Status](https://secure.travis-ci.org/simonfan/arr.png?branch=master)](http://travis-ci.org/simonfan/arr)
+
+Some module...
